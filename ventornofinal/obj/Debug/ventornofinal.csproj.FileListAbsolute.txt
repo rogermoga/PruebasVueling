@@ -1,0 +1,6 @@
+C:\Users\Roger Moga\source\repos\ventornofinal\ventornofinal\bin\Debug\ventornofinal.exe.config
+C:\Users\Roger Moga\source\repos\ventornofinal\ventornofinal\bin\Debug\ventornofinal.exe
+C:\Users\Roger Moga\source\repos\ventornofinal\ventornofinal\bin\Debug\ventornofinal.pdb
+C:\Users\Roger Moga\source\repos\ventornofinal\ventornofinal\obj\Debug\ventornofinal.csproj.CoreCompileInputs.cache
+C:\Users\Roger Moga\source\repos\ventornofinal\ventornofinal\obj\Debug\ventornofinal.exe
+C:\Users\Roger Moga\source\repos\ventornofinal\ventornofinal\obj\Debug\ventornofinal.pdb
